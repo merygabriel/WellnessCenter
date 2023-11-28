@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ospanel/domains/localhost/exe"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../test"
+		}
+	],
+	"settings": {}
+}
